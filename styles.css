@@ -404,7 +404,7 @@ MODAL
 .modal__contact {
   background-color: #242424;
   color: white;
-  transform: translateX(0%);
+  transform: translateX(110%);
 }
 
 .modal__language--img {
